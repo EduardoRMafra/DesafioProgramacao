@@ -1,18 +1,14 @@
-## Getting Started
+## Tecnologias utilizadas
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Visual Studio Code - Download (https://code.visualstudio.com).
+JDK17 - Download (https://www.oracle.com/java/technologies/downloads/#jdk17-windows).
 
-## Folder Structure
+## Como rodar
 
-The workspace contains two folders by default, where:
+Após baixar e instalar o VSCode (Visual Studio Code) e o JDK basta:
+- Abir o VScode, no menu superior ir em File -> Open Folder -> Selecione a pasta do desafio.
+- Após aberto, pressione Ctrl+Shift+X para abrir a aba de extensões e procure por: Extension Pack for Java.
+- Após instalar a extensão pressione Ctrl+Shift+E para ter acesso as pastas do desafio.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Na pasta `src` está os 3 desafios, para roda-los basta clicar no arquivo da questão que deseja executar e depois no botão de play no canto direito superior do programa.
+- Após isso será aberto na parte inferior do programa um terminal.
