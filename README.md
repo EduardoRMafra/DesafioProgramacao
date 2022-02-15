@@ -1,5 +1,6 @@
 ## Tecnologias utilizadas
 
+- Os desafios foram resolvidos em Java.
 - Visual Studio Code - Download (https://code.visualstudio.com).
 - JDK17 - Download (https://www.oracle.com/java/technologies/downloads/#jdk17-windows).
 
