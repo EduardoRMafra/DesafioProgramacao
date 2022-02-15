@@ -1,7 +1,7 @@
 ## Tecnologias utilizadas
 
-Visual Studio Code - Download (https://code.visualstudio.com).
-JDK17 - Download (https://www.oracle.com/java/technologies/downloads/#jdk17-windows).
+- Visual Studio Code - Download (https://code.visualstudio.com).
+- JDK17 - Download (https://www.oracle.com/java/technologies/downloads/#jdk17-windows).
 
 ## Como rodar
 
